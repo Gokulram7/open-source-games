@@ -456,3 +456,4 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 - **[Open Source Game Clones](https://osgameclones.com)**
 
 - **[Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)**
+- **[ChatGPT](https://chatgpt.com/)** - An AI assistant created by OpenAI that can help with writing, coding, research, learning, and more. [[source]](https://openai.com/)
